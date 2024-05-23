@@ -49,7 +49,7 @@ public class FurnitureOffers {
     }
  
     public static void displayName() {
-        System.out.println("Vince Chua");
+        System.out.println("Harbey Edroso");
         System.out.println("Software Engineering II Visitor Pattern");
         System.out.println("Created: April 21st, 2024");
     }
@@ -57,6 +57,6 @@ public class FurnitureOffers {
         System.out.println("Stopping...");
         System.out.println("Terminating...");
         System.out.println("Ended...");
-        System.out.println("Terminated by the Programmer - Vince Chua (3BSCS2)");
+        System.out.println("Terminated by the Programmer - Harbey Edroso (3BSCS2)");
     }
 }
