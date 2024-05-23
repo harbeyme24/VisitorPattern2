@@ -71,7 +71,6 @@ public class FurnitureOffers {
     public static void displayName() {
         System.out.println("Harbey Edroso");
         System.out.println("Software Engineering II Visitor Pattern");
-        System.out.println("Created: April 21st, 2024");
     }
 
     public static void end() {
