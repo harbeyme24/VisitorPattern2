@@ -9,7 +9,7 @@ class chair implements Furniture {
         return furnitureType;
     }
 
-    public void accept(Shopee shopee) {
+    public void accept(Lazada shopee) {
         shopee.shop(this);
     }
 }
